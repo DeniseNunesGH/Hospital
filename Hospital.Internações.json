@@ -1,0 +1,126 @@
+[{
+  "_id": {
+    "$oid": "680991853c508f918780ef97"
+  },
+  "id_internacao": "INT001",
+  "paciente_id": 3,
+  "medico_id": "741236-RJ",
+  "especialidade": "Gastroenterologia",
+  "data_entrada": "2016-03-15",
+  "data_prevista_alta": "2016-03-20",
+  "procedimentos_realizados": "Avaliação digestiva, dieta leve, administração de antiácidos e hidratação intravenosa.",
+  "tipo_quarto_id": "QT003",
+  "convenio_id": "990011223",
+  "enfermeiros": [
+    "ENF001",
+    "ENF004"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680991853c508f918780ef98"
+  },
+  "id_internacao": "INT002",
+  "paciente_id": 2,
+  "medico_id": "984562-PE",
+  "especialidade": "Clinico Geral",
+  "data_entrada": "2017-05-01",
+  "data_prevista_alta": "2017-05-07",
+  "procedimentos_realizados": "Acompanhamento clínico geral, medicação para febre e dor, controle de pressão arterial.",
+  "tipo_quarto_id": "QT002",
+  "convenio_id": "111222333",
+  "enfermeiros": [
+    "ENF003",
+    "ENF006"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680991853c508f918780ef99"
+  },
+  "id_internacao": "INT003",
+  "paciente_id": 3,
+  "medico_id": "789654-CE",
+  "especialidade": "Dermatologia",
+  "data_entrada": "2018-11-10",
+  "data_prevista_alta": "2018-11-13",
+  "procedimentos_realizados": "Tratamento de lesões cutâneas, aplicação de pomadas, observação de reações alérgicas.",
+  "tipo_quarto_id": "QT001",
+  "convenio_id": "990011223",
+  "enfermeiros": [
+    "ENF002",
+    "ENF005"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680991853c508f918780ef9a"
+  },
+  "id_internacao": "INT004",
+  "paciente_id": 4,
+  "medico_id": "556677-SP",
+  "especialidade": "Clinico Geral",
+  "data_entrada": "2019-02-25",
+  "data_prevista_alta": "2019-03-01",
+  "procedimentos_realizados": "Exames clínicos, observação médica contínua, aplicação de medicações orais.",
+  "tipo_quarto_id": "QT002",
+  "convenio_id": null,
+  "enfermeiros": [
+    "ENF008",
+    "ENF010"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680991853c508f918780ef9b"
+  },
+  "id_internacao": "INT005",
+  "paciente_id": 6,
+  "medico_id": "556677-SP",
+  "especialidade": "Clinico Geral",
+  "data_entrada": "2020-07-18",
+  "data_prevista_alta": "2020-07-22",
+  "procedimentos_realizados": "Hidratação, controle de sinais vitais e antibióticos de amplo espectro (sem penicilina).",
+  "tipo_quarto_id": "QT001",
+  "convenio_id": null,
+  "enfermeiros": [
+    "ENF006",
+    "ENF007"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680991853c508f918780ef9c"
+  },
+  "id_internacao": "INT006",
+  "paciente_id": 9,
+  "medico_id": "741236-RJ",
+  "especialidade": "Gastroenterologia",
+  "data_entrada": "2021-01-05",
+  "data_prevista_alta": "2021-01-09",
+  "procedimentos_realizados": "Exames de função intestinal, dieta específica e analgesia leve.",
+  "tipo_quarto_id": "QT003",
+  "convenio_id": null,
+  "enfermeiros": [
+    "ENF009",
+    "ENF001"
+  ]
+},
+{
+  "_id": {
+    "$oid": "680991853c508f918780ef9d"
+  },
+  "id_internacao": "INT007",
+  "paciente_id": 2,
+  "medico_id": "652314-SP",
+  "especialidade": "Clinico Geral",
+  "data_entrada": "2021-09-15",
+  "data_prevista_alta": "2021-09-20",
+  "procedimentos_realizados": "Observação médica, controle de febre e suporte com vitaminas e soro.",
+  "tipo_quarto_id": "QT002",
+  "convenio_id": "111222333",
+  "enfermeiros": [
+    "ENF003",
+    "ENF010"
+  ]
+}]

@@ -1,0 +1,717 @@
+[{
+  "_id": {
+    "$oid": "6800711ef777c7201ff946cd"
+  },
+  "id_paciente": 4,
+  "nome": "Marcos Lima",
+  "data_nascimento": "1970-06-08",
+  "documentos": {
+    "rg": "654321987",
+    "digito": "9",
+    "cpf": "20114578923",
+    "cartao_sus": "32165498700"
+  },
+  "genero": "Masculino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2008-01-15T00:00:00Z",
+  "data_ultima_alteracao": "2024-03-18T15:00:00Z",
+  "contatos": [
+    {
+      "tipo": "residencial",
+      "telefone": "1133345566",
+      "whatsapp": false,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua das Laranjeiras",
+    "numero": 102,
+    "complemento": null,
+    "bairro": "Aclimação",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01530001"
+  },
+  "tipo_sanguineo": "AB+",
+  "convenios": [],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "Luciana Lima",
+    "parentesco": "Filha",
+    "telefone": "1199556677",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "6800711ef777c7201ff946cb"
+  },
+  "id_paciente": 2,
+  "nome": "Lucas Ferreira",
+  "data_nascimento": "1985-07-14",
+  "documentos": {
+    "rg": "421569874",
+    "digito": "2",
+    "cpf": "21859473200",
+    "cartao_sus": "78945612300"
+  },
+  "genero": "Masculino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2015-03-20T00:00:00Z",
+  "data_ultima_alteracao": "2024-04-10T14:00:00Z",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "11981112233",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua das Flores",
+    "numero": 45,
+    "complemento": "Apto 202",
+    "bairro": "Centro",
+    "cidade": "Campinas",
+    "estado": "SP",
+    "cep": "13010010"
+  },
+  "tipo_sanguineo": "A+",
+  "convenios": [
+    {
+      "nome": "Unimed",
+      "cnpj": "12345678000199",
+      "tempo_carencia_dias": 60,
+      "numero_carteira": "111222333",
+      "principal": true
+    }
+  ],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "Carla Ferreira",
+    "parentesco": "Irmã",
+    "telefone": "11998877665",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "6800711ef777c7201ff946cc"
+  },
+  "id_paciente": 3,
+  "nome": "Amanda Rocha",
+  "data_nascimento": "1993-12-01",
+  "documentos": {
+    "rg": "985621478",
+    "digito": "1",
+    "cpf": "50321478965",
+    "cartao_sus": "45678932111"
+  },
+  "genero": "Feminino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2020-07-05T00:00:00Z",
+  "data_ultima_alteracao": "2024-04-06T11:30:00Z",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "21985472365",
+      "whatsapp": false,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Av. Brasil",
+    "numero": 990,
+    "complemento": "Bloco A",
+    "bairro": "Jardim América",
+    "cidade": "Rio de Janeiro",
+    "estado": "RJ",
+    "cep": "22290000"
+  },
+  "tipo_sanguineo": "B-",
+  "convenios": [
+    {
+      "nome": "Bradesco Saúde",
+      "cnpj": "66554433000188",
+      "tempo_carencia_dias": 120,
+      "numero_carteira": "990011223",
+      "principal": true
+    }
+  ],
+  "alergias": [
+    {
+      "tipo": "Lactose",
+      "gravidade": "moderada",
+      "reacoes": [
+        "Náuseas",
+        "Inchaço abdominal"
+      ],
+      "observacao": "Evitar produtos derivados de leite"
+    }
+  ],
+  "contato_emergencia": {
+    "nome": "Eduardo Rocha",
+    "parentesco": "Pai",
+    "telefone": "21981234567",
+    "whatsapp": false
+  },
+  "uso_medicamento": [
+    {
+      "id_medicamento": "M05",
+      "nome_medicamento": "Desloratadina",
+      "tipo": "comprimido",
+      "dosagem": "5mg",
+      "via_administracao": "oral",
+      "frequencia": {
+        "quantidade": 1,
+        "periodicidade": "dias",
+        "horarios": [
+          "22:00"
+        ]
+      },
+      "motivo": "Rinite alérgica",
+      "data_inicio": "2023-10-01",
+      "data_termino": "2024-10-01",
+      "prescrito_por": {
+        "nome": "Dra. Ana Torres",
+        "crm": "RJ789101",
+        "especialidade": "Alergologia"
+      },
+      "observacoes": "Uso contínuo",
+      "status": "ativo"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "68007123f777c7201ff946d1"
+  },
+  "id_paciente": 7,
+  "nome": "Paula Andrade",
+  "data_nascimento": "1988-01-19",
+  "documentos": {
+    "rg": "222334455",
+    "digito": "8",
+    "cpf": "30214578966",
+    "cartao_sus": "22334455661"
+  },
+  "genero": "Feminino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2010-11-03T00:00:00Z",
+  "data_ultima_alteracao": "2024-04-01T16:10:00Z",
+  "contatos": [
+    {
+      "tipo": "residencial",
+      "telefone": "1133123344",
+      "whatsapp": false,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua das Margaridas",
+    "numero": 50,
+    "complemento": null,
+    "bairro": "Vila Mariana",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "04112000"
+  },
+  "tipo_sanguineo": "AB-",
+  "convenios": [
+    {
+      "nome": "SulAmérica",
+      "cnpj": "11122233000155",
+      "tempo_carencia_dias": 90,
+      "numero_carteira": "4422335566",
+      "principal": true
+    }
+  ],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "Fernando Andrade",
+    "parentesco": "Esposo",
+    "telefone": "11999887766",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "68007123f777c7201ff946cf"
+  },
+  "id_paciente": 5,
+  "nome": "Juliana Martins",
+  "data_nascimento": "1990-11-22",
+  "documentos": {
+    "rg": "453216789",
+    "digito": "0",
+    "cpf": "38765419822",
+    "cartao_sus": "99887766554"
+  },
+  "genero": "Feminino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2012-09-30T00:00:00Z",
+  "data_ultima_alteracao": "2024-04-12T08:30:00Z",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "11987654321",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua do Comércio",
+    "numero": 200,
+    "complemento": "Casa 3",
+    "bairro": "Centro",
+    "cidade": "Guarulhos",
+    "estado": "SP",
+    "cep": "07020001"
+  },
+  "tipo_sanguineo": "O+",
+  "convenios": [
+    {
+      "nome": "NotreDame",
+      "cnpj": "33445566000100",
+      "tempo_carencia_dias": 30,
+      "numero_carteira": "987654321",
+      "principal": true
+    }
+  ],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "Roberto Martins",
+    "parentesco": "Marido",
+    "telefone": "11988776655",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "68007123f777c7201ff946d0"
+  },
+  "id_paciente": 6,
+  "nome": "Rafael Oliveira",
+  "data_nascimento": "2001-04-02",
+  "documentos": {
+    "rg": "301122334",
+    "digito": "5",
+    "cpf": "64578912355",
+    "cartao_sus": "56473829100"
+  },
+  "genero": "Masculino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2019-06-12T00:00:00Z",
+  "data_ultima_alteracao": "2024-04-15T13:45:00Z",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "11990011223",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Av. Paulista",
+    "numero": 1009,
+    "complemento": "Apto 405",
+    "bairro": "Bela Vista",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01311000"
+  },
+  "tipo_sanguineo": "B+",
+  "convenios": [],
+  "alergias": [
+    {
+      "tipo": "Penicilina",
+      "gravidade": "grave",
+      "reacoes": [
+        "Inchaço",
+        "Dificuldade respiratória"
+      ],
+      "observacao": "Evitar antibióticos do grupo"
+    }
+  ],
+  "contato_emergencia": {
+    "nome": "Tatiane Oliveira",
+    "parentesco": "Mãe",
+    "telefone": "11981231234",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "68007123f777c7201ff946d2"
+  },
+  "id_paciente": 8,
+  "nome": "Carlos Henrique",
+  "data_nascimento": "1978-09-10",
+  "documentos": {
+    "rg": "778899665",
+    "digito": "3",
+    "cpf": "50781234500",
+    "cartao_sus": "77554433221"
+  },
+  "genero": "Masculino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2016-02-19T00:00:00Z",
+  "data_ultima_alteracao": "2024-03-29T09:00:00Z",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "11976543210",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua da Paz",
+    "numero": 123,
+    "complemento": "Casa",
+    "bairro": "Boa Vista",
+    "cidade": "Osasco",
+    "estado": "SP",
+    "cep": "06266000"
+  },
+  "tipo_sanguineo": "A-",
+  "convenios": [],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "Vera Lúcia",
+    "parentesco": "Esposa",
+    "telefone": "11976543211",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "68007123f777c7201ff946d3"
+  },
+  "id_paciente": 9,
+  "nome": "Fernanda Souza",
+  "data_nascimento": "1997-05-23",
+  "documentos": {
+    "rg": "112233445",
+    "digito": "2",
+    "cpf": "49871236598",
+    "cartao_sus": "11220033445"
+  },
+  "genero": "Feminino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2021-08-15T00:00:00Z",
+  "data_ultima_alteracao": "2024-04-13T12:30:00Z",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "11988997744",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Travessa da União",
+    "numero": 89,
+    "complemento": null,
+    "bairro": "Jardim das Rosas",
+    "cidade": "Santo André",
+    "estado": "SP",
+    "cep": "09185000"
+  },
+  "tipo_sanguineo": "O+",
+  "convenios": [],
+  "alergias": [
+    {
+      "tipo": "Glúten",
+      "gravidade": "moderada",
+      "reacoes": [
+        "Dores abdominais",
+        "Inchaço"
+      ],
+      "observacao": "Paciente com suspeita de doença celíaca"
+    }
+  ],
+  "contato_emergencia": {
+    "nome": "Tiago Souza",
+    "parentesco": "Irmão",
+    "telefone": "11988776655",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "680992df3c508f918780efa1"
+  },
+  "id_paciente": 10,
+  "nome": "Eduardo Ferreira",
+  "data_nascimento": "1993-08-10",
+  "documentos": {
+    "rg": "253658553",
+    "digito": "5",
+    "cpf": "36897327497",
+    "cartao_sus": "74351815010"
+  },
+  "genero": "Feminino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2015-01-01",
+  "data_ultima_alteracao": "2025-04-24",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "1199961241",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua das Flores",
+    "numero": 793,
+    "complemento": null,
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01000000"
+  },
+  "tipo_sanguineo": "AB-",
+  "convenios": [],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "Mariana Almeida",
+    "parentesco": "Esposa",
+    "telefone": "1198483430",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "680992df3c508f918780efa2"
+  },
+  "id_paciente": 11,
+  "nome": "Ana Pereira",
+  "data_nascimento": "1989-09-07",
+  "documentos": {
+    "rg": "152775939",
+    "digito": "6",
+    "cpf": "35690526917",
+    "cartao_sus": "46501027083"
+  },
+  "genero": "Feminino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2015-01-01",
+  "data_ultima_alteracao": "2025-04-24",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "1199586484",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua das Flores",
+    "numero": 728,
+    "complemento": null,
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01000000"
+  },
+  "tipo_sanguineo": "B+",
+  "convenios": [],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "Ana Oliveira",
+    "parentesco": "Pai",
+    "telefone": "1198994829",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "680992df3c508f918780efa3"
+  },
+  "id_paciente": 12,
+  "nome": "Carlos Ferreira",
+  "data_nascimento": "1991-01-15",
+  "documentos": {
+    "rg": "590321070",
+    "digito": "0",
+    "cpf": "58159752559",
+    "cartao_sus": "75699670730"
+  },
+  "genero": "Masculino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2015-01-01",
+  "data_ultima_alteracao": "2025-04-24",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "1199762278",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua da Paz",
+    "numero": 994,
+    "complemento": null,
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01000000"
+  },
+  "tipo_sanguineo": "B+",
+  "convenios": [],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "Mariana Ferreira",
+    "parentesco": "Mãe",
+    "telefone": "1198991943",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "680992df3c508f918780efa4"
+  },
+  "id_paciente": 13,
+  "nome": "Bruno Ferreira",
+  "data_nascimento": "1989-08-27",
+  "documentos": {
+    "rg": "650400302",
+    "digito": "8",
+    "cpf": "75254177582",
+    "cartao_sus": "44528246343"
+  },
+  "genero": "Masculino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2015-01-01",
+  "data_ultima_alteracao": "2025-04-24",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "1199665443",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua das Flores",
+    "numero": 435,
+    "complemento": null,
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01000000"
+  },
+  "tipo_sanguineo": "AB-",
+  "convenios": [],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "João Silva",
+    "parentesco": "Esposa",
+    "telefone": "1198727037",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "680992df3c508f918780efa5"
+  },
+  "id_paciente": 14,
+  "nome": "Bianca Barros",
+  "data_nascimento": "1997-02-14",
+  "documentos": {
+    "rg": "756669184",
+    "digito": "3",
+    "cpf": "00267552521",
+    "cartao_sus": "84570460787"
+  },
+  "genero": "Feminino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2015-01-01",
+  "data_ultima_alteracao": "2025-04-24",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "1199185243",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua das Flores",
+    "numero": 268,
+    "complemento": null,
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01000000"
+  },
+  "tipo_sanguineo": "AB-",
+  "convenios": [],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "Juliana Souza",
+    "parentesco": "Pai",
+    "telefone": "1198999086",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+},
+{
+  "_id": {
+    "$oid": "680992df3c508f918780efa6"
+  },
+  "id_paciente": 15,
+  "nome": "Juliana Almeida",
+  "data_nascimento": "1978-10-25",
+  "documentos": {
+    "rg": "236071461",
+    "digito": "4",
+    "cpf": "39277812550",
+    "cartao_sus": "38181024418"
+  },
+  "genero": "Masculino",
+  "status_paciente": "ativo",
+  "data_cadastro": "2015-01-01",
+  "data_ultima_alteracao": "2025-04-24",
+  "contatos": [
+    {
+      "tipo": "celular",
+      "telefone": "1199652092",
+      "whatsapp": true,
+      "principal": true
+    }
+  ],
+  "endereco": {
+    "logradouro": "Rua dos Pinheiros",
+    "numero": 922,
+    "complemento": null,
+    "bairro": "Centro",
+    "cidade": "São Paulo",
+    "estado": "SP",
+    "cep": "01000000"
+  },
+  "tipo_sanguineo": "A+",
+  "convenios": [],
+  "alergias": [],
+  "contato_emergencia": {
+    "nome": "João Rocha",
+    "parentesco": "Pai",
+    "telefone": "1198327203",
+    "whatsapp": true
+  },
+  "uso_medicamento": []
+}]

@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "680991573c508f918780ef90"
+  },
+  "id_quarto": "QT001",
+  "tipo": "apartamento",
+  "valor_diaria": 800,
+  "descricao": "Quarto individual com banheiro privativo, ambiente reservado e confortável."
+},
+{
+  "_id": {
+    "$oid": "680991573c508f918780ef91"
+  },
+  "id_quarto": "QT002",
+  "tipo": "quarto_duplo",
+  "valor_diaria": 550,
+  "descricao": "Quarto compartilhado com duas camas e banheiro coletivo."
+},
+{
+  "_id": {
+    "$oid": "680991573c508f918780ef92"
+  },
+  "id_quarto": "QT003",
+  "tipo": "enfermaria",
+  "valor_diaria": 300,
+  "descricao": "Espaço coletivo com estrutura básica para múltiplos pacientes."
+}]

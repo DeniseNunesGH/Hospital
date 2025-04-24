@@ -1,0 +1,269 @@
+[{
+  "_id": {
+    "$oid": "6800640df777c7201ff946b3"
+  },
+  "nome": "Josenildo de Almeida Carvalho Filho",
+  "data_de_nascimento": "1999-02-02",
+  "documentos": {
+    "rg": "78158264",
+    "digito": "9",
+    "cpf": "45613278577",
+    "crm": "568154-SP"
+  },
+  "ativo": true,
+  "contato": {
+    "email": "josenildoacfdoutor@gmail.com",
+    "telefone": "11987842568",
+    "whatsapp": true
+  },
+  "especialidade": [
+    "Pediatria",
+    "Clinico Geral"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946b6"
+  },
+  "nome": "Fernanda Oliveira Lima",
+  "data_de_nascimento": "1990-10-30",
+  "documentos": {
+    "rg": "65987324",
+    "digito": "6",
+    "cpf": "89765431212",
+    "crm": "658942-BA"
+  },
+  "ativo": true,
+  "contato": {
+    "email": "fernanda.lima@clinicabahia.com",
+    "telefone": "71988776655",
+    "whatsapp": true
+  },
+  "especialidade": [
+    "Pediatria",
+    "Dermatologia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946b7"
+  },
+  "nome": "Carlos Henrique Souza",
+  "data_de_nascimento": "1982-06-18",
+  "documentos": {
+    "rg": "12345678",
+    "digito": "2",
+    "cpf": "11223344556",
+    "crm": "556677-SP"
+  },
+  "ativo": true,
+  "contato": {
+    "email": "carlos.souza@gmail.com",
+    "telefone": "11999887766",
+    "whatsapp": false
+  },
+  "especialidade": [
+    "Clinico Geral"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946b9"
+  },
+  "nome": "Luciano Ferreira Gomes",
+  "data_de_nascimento": "1987-04-04",
+  "documentos": {
+    "rg": "32165498",
+    "digito": "5",
+    "cpf": "99887766554",
+    "crm": "452311-RS"
+  },
+  "ativo": false,
+  "contato": {
+    "email": "luciano.gomes@clinicars.com.br",
+    "telefone": "51999887766",
+    "whatsapp": true
+  },
+  "especialidade": [
+    "Gastroenterologia",
+    "Clinico Geral"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946be"
+  },
+  "nome": "Camila Teixeira Souza",
+  "data_de_nascimento": "1996-03-22",
+  "documentos": {
+    "rg": "47851236",
+    "digito": "6",
+    "cpf": "99884455660",
+    "crm": "652314-SP"
+  },
+  "ativo": true,
+  "contato": {
+    "email": "camila.souza@clinicamedica.com",
+    "telefone": "11987654322",
+    "whatsapp": true
+  },
+  "especialidade": [
+    "Pediatria",
+    "Clinico Geral"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946bb"
+  },
+  "nome": "Renato Luiz Mendonça",
+  "data_de_nascimento": "1975-09-14",
+  "documentos": {
+    "rg": "96385274",
+    "digito": "8",
+    "cpf": "44556677889",
+    "crm": "123698-SP"
+  },
+  "ativo": true,
+  "contato": {
+    "email": "renato.mendonca@hospitalpaulista.org",
+    "telefone": "11912349876",
+    "whatsapp": true
+  },
+  "especialidade": [
+    "Pediatria"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946bc"
+  },
+  "nome": "Isabela Castro Farias",
+  "data_de_nascimento": "1983-01-19",
+  "documentos": {
+    "rg": "85296374",
+    "digito": "0",
+    "cpf": "55667788990",
+    "crm": "741236-RJ"
+  },
+  "ativo": true,
+  "contato": {
+    "email": "isabela.farias@clinicario.com.br",
+    "telefone": "21999887744",
+    "whatsapp": true
+  },
+  "especialidade": [
+    "Gastroenterologia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946b4"
+  },
+  "nome": "Marina Costa Silveira",
+  "data_de_nascimento": "1985-07-12",
+  "documentos": {
+    "rg": "56473219",
+    "digito": "3",
+    "cpf": "34598762190",
+    "crm": "784512-RJ"
+  },
+  "ativo": true,
+  "contato": {
+    "email": "marina.silveira.med@gmail.com",
+    "telefone": "21987654321",
+    "whatsapp": false
+  },
+  "especialidade": [
+    "Dermatologia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946b5"
+  },
+  "nome": "Rafael Martins Duarte",
+  "data_de_nascimento": "1979-03-25",
+  "documentos": {
+    "rg": "23478965",
+    "digito": "4",
+    "cpf": "12345678900",
+    "crm": "325874-MG"
+  },
+  "ativo": false,
+  "contato": {
+    "email": "rafael.duarte@hospitalmg.br",
+    "telefone": "31912345678",
+    "whatsapp": true
+  },
+  "especialidade": [
+    "Gastroenterologia"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946b8"
+  },
+  "nome": "Tatiane Ribeiro Falcão",
+  "data_de_nascimento": "1995-11-21",
+  "documentos": {
+    "rg": "89765412",
+    "digito": "7",
+    "cpf": "55443322110",
+    "crm": "789654-CE"
+  },
+  "ativo": true,
+  "contato": {
+    "email": "tatiane.falcao@saudeceara.org",
+    "telefone": "85912349876",
+    "whatsapp": true
+  },
+  "especialidade": [
+    "Dermatologia",
+    "Clinico Geral"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946ba"
+  },
+  "nome": "Patrícia Nogueira Andrade",
+  "data_de_nascimento": "1992-08-08",
+  "documentos": {
+    "rg": "74125896",
+    "digito": "1",
+    "cpf": "33445566778",
+    "crm": "984562-PE"
+  },
+  "ativo": true,
+  "contato": {
+    "email": "patricia.andrade@clinicape.com",
+    "telefone": "8199998877",
+    "whatsapp": false
+  },
+  "especialidade": [
+    "Clinico Geral"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6800640df777c7201ff946bd"
+  },
+  "nome": "André Luiz Moreira",
+  "data_de_nascimento": "1980-12-01",
+  "documentos": {
+    "rg": "11235813",
+    "digito": "1",
+    "cpf": "66778899001",
+    "crm": "369852-MG"
+  },
+  "ativo": false,
+  "contato": {
+    "email": "andre.moreira@hospitalmg.com",
+    "telefone": "31985476321",
+    "whatsapp": false
+  },
+  "especialidade": [
+    "Dermatologia"
+  ]
+}]
