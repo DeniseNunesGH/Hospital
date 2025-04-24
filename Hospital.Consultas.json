@@ -1,0 +1,576 @@
+[{
+  "_id": "CONS001",
+  "receituario": {
+    "medicamentos": [
+      {
+        "id_medicamento": "RX242",
+        "nome_medicamento": "Ranitidina",
+        "tipo": "comprimido",
+        "dosagem": "250mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "12h",
+          "horarios": [
+            "08:00",
+            "20:00"
+          ]
+        },
+        "motivo": "Tratamento com Ranitidina",
+        "data_inicio": "2021-01-01",
+        "data_termino": "2021-01-07",
+        "prescrito_por": {
+          "nome": "Mariana Oliveira",
+          "crm": "583632-SP",
+          "especialidade": "Pediatria"
+        },
+        "observacoes": "Usar conforme orientação médica.",
+        "status": "ativo"
+      },
+      {
+        "id_medicamento": "RX888",
+        "nome_medicamento": "Loratadina",
+        "tipo": "comprimido",
+        "dosagem": "750mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "12h",
+          "horarios": [
+            "08:00",
+            "20:00"
+          ]
+        },
+        "motivo": "Tratamento com Loratadina",
+        "data_inicio": "2021-01-01",
+        "data_termino": "2021-01-07",
+        "prescrito_por": {
+          "nome": "Fernando Cardoso",
+          "crm": "809939-SP",
+          "especialidade": "Clinico Geral"
+        },
+        "observacoes": "Usar conforme orientação médica.",
+        "status": "ativo"
+      }
+    ]
+  }
+},
+{
+  "_id": "CONS002",
+  "receituario": {
+    "medicamentos": [
+      {
+        "id_medicamento": "RX728",
+        "nome_medicamento": "Paracetamol",
+        "tipo": "comprimido",
+        "dosagem": "750mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "12h",
+          "horarios": [
+            "08:00",
+            "20:00"
+          ]
+        },
+        "motivo": "Tratamento com Paracetamol",
+        "data_inicio": "2021-01-01",
+        "data_termino": "2021-01-07",
+        "prescrito_por": {
+          "nome": "Lívia Cardoso",
+          "crm": "106764-SP",
+          "especialidade": "Pediatria"
+        },
+        "observacoes": "Usar conforme orientação médica.",
+        "status": "ativo"
+      },
+      {
+        "id_medicamento": "RX106",
+        "nome_medicamento": "Amoxicilina",
+        "tipo": "comprimido",
+        "dosagem": "250mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "12h",
+          "horarios": [
+            "08:00",
+            "20:00"
+          ]
+        },
+        "motivo": "Tratamento com Amoxicilina",
+        "data_inicio": "2021-01-01",
+        "data_termino": "2021-01-07",
+        "prescrito_por": {
+          "nome": "João Oliveira",
+          "crm": "168727-SP",
+          "especialidade": "Clinico Geral"
+        },
+        "observacoes": "Usar conforme orientação médica.",
+        "status": "ativo"
+      }
+    ]
+  }
+},
+{
+  "_id": "CONS003",
+  "receituario": {
+    "medicamentos": [
+      {
+        "id_medicamento": "RX935",
+        "nome_medicamento": "Azitromicina",
+        "tipo": "comprimido",
+        "dosagem": "250mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "12h",
+          "horarios": [
+            "08:00",
+            "20:00"
+          ]
+        },
+        "motivo": "Tratamento com Azitromicina",
+        "data_inicio": "2021-01-01",
+        "data_termino": "2021-01-07",
+        "prescrito_por": {
+          "nome": "Bianca Almeida",
+          "crm": "520483-SP",
+          "especialidade": "Pediatria"
+        },
+        "observacoes": "Usar conforme orientação médica.",
+        "status": "ativo"
+      },
+      {
+        "id_medicamento": "RX175",
+        "nome_medicamento": "Ibuprofeno",
+        "tipo": "comprimido",
+        "dosagem": "500mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "12h",
+          "horarios": [
+            "08:00",
+            "20:00"
+          ]
+        },
+        "motivo": "Tratamento com Ibuprofeno",
+        "data_inicio": "2021-01-01",
+        "data_termino": "2021-01-07",
+        "prescrito_por": {
+          "nome": "João Souza",
+          "crm": "882847-SP",
+          "especialidade": "Pediatria"
+        },
+        "observacoes": "Usar conforme orientação médica.",
+        "status": "ativo"
+      }
+    ]
+  }
+},
+{
+  "_id": "CONS004",
+  "receituario": {
+    "medicamentos": [
+      {
+        "id_medicamento": "RX300",
+        "nome_medicamento": "Dipirona",
+        "tipo": "comprimido",
+        "dosagem": "500mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "8h",
+          "horarios": [
+            "08:00",
+            "16:00",
+            "00:00"
+          ]
+        },
+        "motivo": "Dor de cabeça",
+        "data_inicio": "2020-08-15",
+        "data_termino": "2020-08-20",
+        "prescrito_por": {
+          "nome": "Carla Rocha",
+          "crm": "123456-SP",
+          "especialidade": "Clinico Geral"
+        },
+        "observacoes": "Tomar após as refeições",
+        "status": "ativo"
+      },
+      {
+        "id_medicamento": "RX301",
+        "nome_medicamento": "Omeprazol",
+        "tipo": "cápsula",
+        "dosagem": "20mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "24h",
+          "horarios": [
+            "07:00"
+          ]
+        },
+        "motivo": "Proteção gástrica",
+        "data_inicio": "2020-08-15",
+        "data_termino": "2020-08-20",
+        "prescrito_por": {
+          "nome": "Carla Rocha",
+          "crm": "123456-SP",
+          "especialidade": "Clinico Geral"
+        },
+        "observacoes": "Tomar em jejum",
+        "status": "ativo"
+      }
+    ]
+  }
+},
+{
+  "_id": "CONS005",
+  "receituario": {
+    "medicamentos": [
+      {
+        "id_medicamento": "RX302",
+        "nome_medicamento": "Ibuprofeno",
+        "tipo": "comprimido",
+        "dosagem": "400mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "8h",
+          "horarios": [
+            "08:00",
+            "16:00",
+            "00:00"
+          ]
+        },
+        "motivo": "Inflamação",
+        "data_inicio": "2019-06-01",
+        "data_termino": "2019-06-07",
+        "prescrito_por": {
+          "nome": "Bruno Ferreira",
+          "crm": "654321-SP",
+          "especialidade": "Dermatologia"
+        },
+        "observacoes": "Evitar exposição ao sol",
+        "status": "ativo"
+      },
+      {
+        "id_medicamento": "RX303",
+        "nome_medicamento": "Loratadina",
+        "tipo": "comprimido",
+        "dosagem": "10mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "24h",
+          "horarios": [
+            "22:00"
+          ]
+        },
+        "motivo": "Alergia de pele",
+        "data_inicio": "2019-06-01",
+        "data_termino": "2019-06-10",
+        "prescrito_por": {
+          "nome": "Bruno Ferreira",
+          "crm": "654321-SP",
+          "especialidade": "Dermatologia"
+        },
+        "observacoes": "Tomar antes de dormir",
+        "status": "ativo"
+      }
+    ]
+  }
+},
+{
+  "_id": "CONS006",
+  "receituario": {
+    "medicamentos": [
+      {
+        "id_medicamento": "RX304",
+        "nome_medicamento": "Amoxicilina",
+        "tipo": "comprimido",
+        "dosagem": "500mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "8h",
+          "horarios": [
+            "08:00",
+            "16:00",
+            "00:00"
+          ]
+        },
+        "motivo": "Infecção respiratória",
+        "data_inicio": "2018-03-12",
+        "data_termino": "2018-03-19",
+        "prescrito_por": {
+          "nome": "Fernanda Lima",
+          "crm": "777888-SP",
+          "especialidade": "Pediatria"
+        },
+        "observacoes": "Completar os 7 dias",
+        "status": "ativo"
+      },
+      {
+        "id_medicamento": "RX305",
+        "nome_medicamento": "Paracetamol",
+        "tipo": "comprimido",
+        "dosagem": "750mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "6h",
+          "horarios": [
+            "06:00",
+            "12:00",
+            "18:00",
+            "00:00"
+          ]
+        },
+        "motivo": "Febre",
+        "data_inicio": "2018-03-12",
+        "data_termino": "2018-03-15",
+        "prescrito_por": {
+          "nome": "Fernanda Lima",
+          "crm": "777888-SP",
+          "especialidade": "Pediatria"
+        },
+        "observacoes": "Suspender se não houver febre por 48h",
+        "status": "ativo"
+      }
+    ]
+  }
+},
+{
+  "_id": "CONS007",
+  "receituario": {
+    "medicamentos": [
+      {
+        "id_medicamento": "RX306",
+        "nome_medicamento": "Ranitidina",
+        "tipo": "comprimido",
+        "dosagem": "150mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "12h",
+          "horarios": [
+            "08:00",
+            "20:00"
+          ]
+        },
+        "motivo": "Refluxo gástrico",
+        "data_inicio": "2021-10-10",
+        "data_termino": "2021-10-17",
+        "prescrito_por": {
+          "nome": "João Barros",
+          "crm": "999888-SP",
+          "especialidade": "Gastroenterologia"
+        },
+        "observacoes": "Tomar antes das refeições",
+        "status": "ativo"
+      },
+      {
+        "id_medicamento": "RX307",
+        "nome_medicamento": "Domperidona",
+        "tipo": "comprimido",
+        "dosagem": "10mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "8h",
+          "horarios": [
+            "07:00",
+            "15:00",
+            "23:00"
+          ]
+        },
+        "motivo": "Náuseas",
+        "data_inicio": "2021-10-10",
+        "data_termino": "2021-10-17",
+        "prescrito_por": {
+          "nome": "João Barros",
+          "crm": "999888-SP",
+          "especialidade": "Gastroenterologia"
+        },
+        "observacoes": "Evitar alimentos gordurosos",
+        "status": "ativo"
+      }
+    ]
+  }
+},
+{
+  "_id": "CONS008",
+  "receituario": {
+    "medicamentos": [
+      {
+        "id_medicamento": "RX308",
+        "nome_medicamento": "Clorfeniramina",
+        "tipo": "comprimido",
+        "dosagem": "4mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "12h",
+          "horarios": [
+            "08:00",
+            "20:00"
+          ]
+        },
+        "motivo": "Alergia sazonal",
+        "data_inicio": "2016-11-05",
+        "data_termino": "2016-11-12",
+        "prescrito_por": {
+          "nome": "Tatiane Ribeiro",
+          "crm": "456321-SP",
+          "especialidade": "Dermatologia"
+        },
+        "observacoes": "Evitar locais com pó",
+        "status": "ativo"
+      },
+      {
+        "id_medicamento": "RX309",
+        "nome_medicamento": "Betametasona",
+        "tipo": "pomada",
+        "dosagem": "0.1%",
+        "via_administracao": "tópica",
+        "frequencia": {
+          "quantidade": 2,
+          "periodicidade": "dia",
+          "horarios": [
+            "08:00",
+            "20:00"
+          ]
+        },
+        "motivo": "Coceiras na pele",
+        "data_inicio": "2016-11-05",
+        "data_termino": "2016-11-12",
+        "prescrito_por": {
+          "nome": "Tatiane Ribeiro",
+          "crm": "456321-SP",
+          "especialidade": "Dermatologia"
+        },
+        "observacoes": "Aplicar somente na área afetada",
+        "status": "ativo"
+      }
+    ]
+  }
+},
+{
+  "_id": "CONS009",
+  "receituario": {
+    "medicamentos": [
+      {
+        "id_medicamento": "RX310",
+        "nome_medicamento": "Cetoprofeno",
+        "tipo": "comprimido",
+        "dosagem": "100mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "12h",
+          "horarios": [
+            "08:00",
+            "20:00"
+          ]
+        },
+        "motivo": "Dor muscular",
+        "data_inicio": "2017-12-01",
+        "data_termino": "2017-12-07",
+        "prescrito_por": {
+          "nome": "Carlos Nogueira",
+          "crm": "112233-SP",
+          "especialidade": "Ortopedia"
+        },
+        "observacoes": "Repousar durante o tratamento",
+        "status": "ativo"
+      },
+      {
+        "id_medicamento": "RX311",
+        "nome_medicamento": "Torsilax",
+        "tipo": "comprimido",
+        "dosagem": "300mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "8h",
+          "horarios": [
+            "08:00",
+            "16:00",
+            "00:00"
+          ]
+        },
+        "motivo": "Tensão muscular",
+        "data_inicio": "2017-12-01",
+        "data_termino": "2017-12-07",
+        "prescrito_por": {
+          "nome": "Carlos Nogueira",
+          "crm": "112233-SP",
+          "especialidade": "Ortopedia"
+        },
+        "observacoes": "Evitar dirigir",
+        "status": "ativo"
+      }
+    ]
+  }
+},
+{
+  "_id": "CONS010",
+  "receituario": {
+    "medicamentos": [
+      {
+        "id_medicamento": "RX312",
+        "nome_medicamento": "Metformina",
+        "tipo": "comprimido",
+        "dosagem": "850mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "8h",
+          "horarios": [
+            "08:00",
+            "16:00",
+            "00:00"
+          ]
+        },
+        "motivo": "Controle glicêmico",
+        "data_inicio": "2022-01-01",
+        "data_termino": "2022-01-30",
+        "prescrito_por": {
+          "nome": "Juliana Rocha",
+          "crm": "121212-SP",
+          "especialidade": "Clinico Geral"
+        },
+        "observacoes": "Tomar com alimentos",
+        "status": "ativo"
+      },
+      {
+        "id_medicamento": "RX313",
+        "nome_medicamento": "Glibenclamida",
+        "tipo": "comprimido",
+        "dosagem": "5mg",
+        "via_administracao": "oral",
+        "frequencia": {
+          "quantidade": 1,
+          "periodicidade": "12h",
+          "horarios": [
+            "07:00",
+            "19:00"
+          ]
+        },
+        "motivo": "Hipoglicemiante oral",
+        "data_inicio": "2022-01-01",
+        "data_termino": "2022-01-30",
+        "prescrito_por": {
+          "nome": "Juliana Rocha",
+          "crm": "121212-SP",
+          "especialidade": "Clinico Geral"
+        },
+        "observacoes": "Monitorar glicose",
+        "status": "ativo"
+      }
+    ]
+  }
+}]
